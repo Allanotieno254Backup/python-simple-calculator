@@ -3,6 +3,8 @@
 ## Overview
 This is a simple calculator program written in Python that performs basic arithmetic operations. It allows users to input two numbers and an operation of their choice, then returns the computed result. The program supports addition, subtraction, multiplication, and division while also handling division by zero errors gracefully.
 
+![calc](https://github.com/user-attachments/assets/21f9442f-de2c-44b6-bf58-d4eed8eb4378)
+
 ## Features
 - Accepts two numerical inputs from the user.
 - Supports four basic mathematical operations:
